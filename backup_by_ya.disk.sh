@@ -1,1 +1,1 @@
-echo "hello,world!";
+echo "my first script for backup";
