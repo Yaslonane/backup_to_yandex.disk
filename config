@@ -1,5 +1,8 @@
-user_db = ;
-password_db = ;
-name_db = ;
-kye_yandex.disk = ;
-quantity_days = ;
+server_db = '';
+user_db = '';
+password_db = '';
+admin_email = ''
+kye_yandex.disk = '';
+max_backup = '';
+dir_for_backup = '';
+dir_temp = '';
