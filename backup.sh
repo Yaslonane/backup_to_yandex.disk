@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Yandex.Disk backup script v1.0 by Sergey Lukonin (neblog.info)
+# Yandex.Disk backup edit. add security (new file 'config')
 #
 # # # # # # # # # # НАСТРОЙКИ БЕКАПА MYSQL # # # # # # # # # #
 
